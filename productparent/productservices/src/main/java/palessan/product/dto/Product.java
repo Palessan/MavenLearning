@@ -1,4 +1,4 @@
-package com.palessan.product.dto;
+package palessan.product.dto;
 
 public class Product {
   private int id;

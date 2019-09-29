@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>com.palessan.product</groupId>
+    <groupId>palessan.product</groupId>
     <artifactId>productparent</artifactId>
     <version>1.0</version>
   </parent>

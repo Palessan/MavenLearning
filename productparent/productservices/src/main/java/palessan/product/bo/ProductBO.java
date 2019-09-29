@@ -1,6 +1,6 @@
-package com.palessan.product.bo;
+package palessan.product.bo;
 
-import com.palessan.product.dto.Product;
+import palessan.product.dto.Product;
 
 public interface ProductBO {
 

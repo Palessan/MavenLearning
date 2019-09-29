@@ -1,8 +1,8 @@
-package com.palessan.product.dao;
+package palessan.product.dao;
 
 import java.util.HashMap;
 import java.util.Map;
-import com.palessan.product.dto.Product;
+import palessan.product.dto.Product;
 
 public class ProductDAOImpl implements ProductDAO {
 

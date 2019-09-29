@@ -28,7 +28,7 @@
             "type": "java",
             "name": "Debug (Launch)-App<productservices>",
             "request": "launch",
-            "mainClass": "com.palessan.product.App",
+            "mainClass": "palessan.product.App",
             "projectName": "productservices"
         }
     ]

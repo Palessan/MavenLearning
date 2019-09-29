@@ -1,10 +1,10 @@
-package com.palessan.product.dao;
+package palessan.product.dao;
 
 import org.junit.Test;
-import com.palessan.product.dto.Product;
+import palessan.product.dto.Product;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
-import static org.junit.Assert.assertTrue;
+//import static org.junit.Assert.assertTrue;
 
 /**
  * Unit test for simple App.

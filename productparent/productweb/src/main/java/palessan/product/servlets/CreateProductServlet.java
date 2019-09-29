@@ -1,9 +1,9 @@
-package com.palessan.product.servlets;
+package palessan.product.servlets;
 
 import java.io.IOException;
 import java.io.PrintWriter;
 
-import javax.servlet.ServletContext;
+//import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -15,8 +15,8 @@ import org.springframework.web.context.support.WebApplicationContextUtils;
 //import org.springframework.web.context.WebApplicationContext;
 //import org.springframework.web.context.support.WebApplicationContextUtils;
 //
-import com.palessan.product.bo.ProductBO;
-import com.palessan.product.dto.Product;
+import palessan.product.bo.ProductBO;
+import palessan.product.dto.Product;
 
 @WebServlet
 public class CreateProductServlet  extends HttpServlet {

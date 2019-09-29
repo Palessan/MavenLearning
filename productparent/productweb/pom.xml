@@ -6,7 +6,7 @@
 
 
   <parent>
-    <groupId>com.palessan.product</groupId>
+    <groupId>palessan.product</groupId>
     <artifactId>productparent</artifactId>
     <version>1.0</version>
   </parent>
@@ -53,7 +53,7 @@
     </dependency>
 
     <dependency>
-      <groupId>com.palessan.product</groupId>
+      <groupId>palessan.product</groupId>
       <artifactId>productservices</artifactId>
       <version>1.0</version>
     </dependency>

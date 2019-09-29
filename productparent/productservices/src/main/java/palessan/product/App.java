@@ -1,4 +1,4 @@
-package com.palessan.product;
+package palessan.product;
 
 /**
  * Hello world!

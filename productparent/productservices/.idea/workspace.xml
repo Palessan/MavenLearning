@@ -270,7 +270,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.palessan.product.dao" />
+      <recent name="palessan.product.dao" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\projects\palessan\productservices\src\main\java\com\palessan\product\bo" />
@@ -295,12 +295,12 @@
       <module name="productservices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.palessan.product.dao.*" />
+          <option name="PATTERN" value="palessan.product.dao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.palessan.product.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.palessan.product.dao.ProductDAOImplTest" />
+      <option name="PACKAGE_NAME" value="palessan.product.dao" />
+      <option name="MAIN_CLASS_NAME" value="palessan.product.dao.ProductDAOImplTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -309,12 +309,12 @@
       <module name="productservices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.palessan.product.dao.*" />
+          <option name="PATTERN" value="palessan.product.dao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.palessan.product.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.palessan.product.dao.ProductDAOImplTest" />
+      <option name="PACKAGE_NAME" value="palessan.product.dao" />
+      <option name="MAIN_CLASS_NAME" value="palessan.product.dao.ProductDAOImplTest" />
       <option name="METHOD_NAME" value="shouldCreateAProduct" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">

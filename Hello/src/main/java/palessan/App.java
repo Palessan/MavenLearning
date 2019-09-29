@@ -19,12 +19,12 @@ public class App {
 
         for (String s : stringList) {
             System.out.println(s);
-            s="asdasd";//This works since even though one is final, s is assigned to another object here.
+            s="test";//This works since even though one is final, s is assigned to another object here.
         }
 
 //        for (final String s : stringList) {
 //            System.out.println(s);
-////            s="asdasd";//this would failed since the string is final. Please notice it doesn't fail above.
+////            s="test";//this would failed since the string is final. Please notice it doesn't fail above.
 //        }
 
         System.out.println("\n**********************");

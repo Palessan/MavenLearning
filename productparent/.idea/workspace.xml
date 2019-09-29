@@ -8,21 +8,38 @@
   <component name="ChangeListManager">
     <list default="true" id="4c1da619-8a1b-4354-b9e6-f445fef9fc0f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.vscode/launch.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Hello/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello/src/main/java/Palessan/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello/src/main/java/palessan/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello/src/main/java/Palessan/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello/src/main/java/palessan/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello/src/test/java/Palessan/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello/src/test/java/palessan/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello/src/main/java/palessan/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello/src/main/java/palessan/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello/src/main/java/palessan/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello/src/main/java/palessan/HelloWorld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productservices/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/productservices/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productservices/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/productservices/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productservices/src/main/java/com/palessan/product/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/productservices/src/main/java/com/palessan/product/bo/ProductBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/productservices/src/main/java/com/palessan/product/bo/ProductBOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/productservices/src/main/java/com/palessan/product/dao/ProductDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/productservices/src/main/java/com/palessan/product/dao/ProductDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/productservices/src/main/java/com/palessan/product/dto/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/productservices/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/productservices/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productservices/src/test/java/com/palessan/product/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/productservices/src/test/java/com/palessan/product/dao/ProductDAOImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/productweb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/productweb/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productweb/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/productweb/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productweb/src/main/java/com/palessan/product/servlets/CreateProductServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/productweb/src/main/java/com/palessan/product/servlets/DisplayProductDetailsServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/productweb/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/productweb/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="productparent" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -44,6 +61,7 @@
   <component name="ProjectId" id="1RVKVgJrEZyLyFL3InjHmWhUUX7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544831739145" />
@@ -53,6 +71,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -66,7 +85,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Maven.test [-X]">
+  <component name="RunManager" selected="Tomcat Server.apache-tomcat-9.0.14 product.html">
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="-X" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="test [-X]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+                <option value="-X" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/productservices" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
       <deployment />
       <server-settings>
@@ -129,59 +199,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list>
-                <option value="-X" />
-              </list>
-            </option>
-            <option name="pomFileName" />
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-      <method v="2" />
-    </configuration>
-    <configuration name="test [-X]" type="MavenRunConfiguration" factoryName="Maven">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list>
-                <option value="test" />
-                <option value="-X" />
-              </list>
-            </option>
-            <option name="pomFileName" />
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="$PROJECT_DIR$/productservices" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-      <method v="2" />
-    </configuration>
     <configuration name="apache-tomcat-9.0.14 product.html" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.14" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/product.html" />
+      <option name="START_JAVASCRIPT_DEBUGGER" value="true" />
       <option name="UPDATING_POLICY" value="hot-swap-classes" />
       <deployment>
         <artifact name="productweb:war">
@@ -256,7 +276,13 @@
     </configuration>
     <list>
       <item itemvalue="Maven.test [-X]" />
+      <item itemvalue="Tomcat Server.apache-tomcat-9.0.14 product.html" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Tomcat Server.apache-tomcat-9.0.14 product.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -272,11 +298,10 @@
       <workItem from="1543415340403" duration="17000" />
       <workItem from="1544829759950" duration="2015000" />
       <workItem from="1545045607240" duration="9000" />
+      <workItem from="1569762533901" duration="549000" />
+      <workItem from="1569763099034" duration="608000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3378000" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -286,99 +311,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <last-edited>productweb:war</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.5" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Spring</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>productparent</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: commons-logging:commons-logging:1.2</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
