@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf48cb98-e501-4fec-b680-fe6789a47714" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hello.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Hello-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Hello-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Palessan/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Palessan/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Palessan/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Palessan/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Palessan/MySecondClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Palessan/MySecondClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Palessan/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Palessan/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Palessan/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/palessan/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Palessan/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/palessan/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Palessan/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/palessan/AppTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +57,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -210,11 +209,11 @@
       </method>
     </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Palessan.App" />
-      <module name="Hello" />
+      <option name="MAIN_CLASS_NAME" value="palessan.App" />
+      <module name="hello" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Palessan.*" />
+          <option name="PATTERN" value="palessan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

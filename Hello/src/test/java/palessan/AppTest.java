@@ -1,4 +1,4 @@
-package Palessan;
+package palessan;
 
 import static org.junit.Assert.assertTrue;
 

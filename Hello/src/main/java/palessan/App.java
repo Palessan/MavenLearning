@@ -1,4 +1,4 @@
-package Palessan;
+package palessan;
 
 import java.util.ArrayList;
 import java.util.List;
