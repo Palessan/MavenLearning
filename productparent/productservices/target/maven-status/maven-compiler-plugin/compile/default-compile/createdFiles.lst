@@ -1,6 +1,0 @@
-com\palessan\product\bo\ProductBO.class
-com\palessan\product\dao\ProductDAO.class
-com\palessan\product\App.class
-com\palessan\product\bo\ProductBOImpl.class
-com\palessan\product\dao\ProductDAOImpl.class
-com\palessan\product\dto\Product.class
